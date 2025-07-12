@@ -1,2 +1,2 @@
 # snowflake_git
-Testing git integration.
+Tested git integration.
